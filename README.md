@@ -99,8 +99,5 @@
 
 ---
 
-### 🌈 3D Contribution Graph
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</div>
+### 3D Contribution Graph:📉
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
