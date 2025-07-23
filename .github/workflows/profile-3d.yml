@@ -5,6 +5,9 @@ on:
     - cron: "0 18 * * *" # Runs daily at 18:00 UTC
   workflow_dispatch:
 
+permissions:
+  contents: write  # 👈 REQUIRED to allow git push
+
 jobs:
   build:
     runs-on: ubuntu-latest
