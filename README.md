@@ -15,8 +15,8 @@
 - 🎓 Currently pursuing **B.Tech CSE (Data Science)** at **LPU**
 - 💻 Learning **DSA**, **MERN Stack**, and **Model Training**
 - 🤝 Looking to collaborate on **Web + ML Projects**
-- 🧠 Passionate about **AI**, **UI/UX**, and **Data Visualization**
-- 📌 Goals: Contribute to **Open Source** & **Product Development**
+- 🧠 Passionate about **AI**,  and **Data Visualization**
+- 🧠 Fact: `tea + code = happiness` 🍵💻😊
 
 ---
 
@@ -94,8 +94,9 @@
 ### 🐍 Snake Eating My Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KunalAnand7222/KunalAnand7222/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/KunalAnand7222/KunalAnand7222/output/snake.svg?v=3" alt="Snake animation" />
 </div>
+
 
 ---
 
