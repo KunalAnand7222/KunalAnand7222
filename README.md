@@ -94,7 +94,8 @@
 ### 🐍 Snake Eating My Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KunalAnand7222/KunalAnand7222/output/snake.svg?v=4" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/KunalAnand7222/KunalAnand7222/output/snake.svg?v=7" alt="Snake animation" />
+
 </div>
 
 
