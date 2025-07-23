@@ -1,33 +1,95 @@
-<h1 align="center">Hi 👋, I'm KUNAL ANAND</h1>
-<h3 align="center">A frontend and data analytics enthusiast</h3>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalanand7222&label=Profile%20views&color=0e75b6&style=flat" alt="kunalanand7222" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalanand7222" alt="kunalanand7222" /></a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalanand7222&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalanand7222&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🌱 I’m currently learning **Competitive programming**
+###
 
-- 💬 Ask me about **Python, Machine Learning, Streamlit, Tableau**
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 📫 How to reach me **kunalbhardwaj7222805@gmail.com**
+###
 
-- ⚡ Fun fact: **Tea + Code = Happiness.**
+<div >
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="12" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kunaland72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunaland72" height="30" width="40" /></a>
-<a href="https://medium.com/@kunalbhardwaj7222805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kunalbhardwaj7222805" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kunalbhardwaj721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kunalbhardwaj721" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kunal_anand7222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kunal_anand7222" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kunalanand7222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunalanand7222" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kunalbhardwaj192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kunalbhardwaj192" height="30" width="40" /></a>
-</p>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+  <img width="12" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+  <img width="12" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalanand7222&show_icons=true&locale=en&layout=compact" alt="kunalanand7222" /></p>
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+  <img width="12" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalanand7222&show_icons=true&locale=en" alt="kunalanand7222" /></p>
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
+  <img width="12" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalanand7222&" alt="kunalanand7222" /></p>
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
+  <img width="12" />
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
+  <img width="12" />
+
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL logo" />
+  <img width="12" />
+
+  <!-- Excel (custom image) -->
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Logo.png" height="30" alt="Excel logo" />
+  <img width="12" />
+
+  <!-- Tableau (custom image) -->
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" height="30" alt="Tableau logo" />
+  <img width="12" />
+
+  <!-- Power BI (custom image) -->
+  <img src="https://logo-marque.com/wp-content/uploads/2022/01/Power-BI-Embleme.jpg" height="30" alt="Power BI logo" />
+</div>
+
+
+
+
+
+###
+
+<div align="left">
+  <a href="https://leetcode.com/u/KunalAnand7222/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" alt="LeetCode logo" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/kunalbhardwaj192/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" alt="GeeksforGeeks logo" />
+  </a>
+  <a href="https://codeforces.com/profile/Kunal_Anand7222" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="Codeforces logo" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/kunalbhardwaj721" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35" alt="HackerRank logo" />
+  </a>
+  <a href="https://medium.com/@kunalbhardwaj7222805" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="35" alt="Medium logo" />
+  </a>
+  <a href="https://kunalanand7222.github.io/Portfoliokunal/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" height="35" alt="Portfolio logo" />
+  </a>
+</div>
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
