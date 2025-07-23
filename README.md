@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/KunalAnand7222/KunalAnand7222/main/assets/header.png" width="100%"/>
+<img src="generated-image (1).png" width="100%" height=400/>
 
 # Hi, I'm KUNAL ANAND! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
