@@ -99,5 +99,5 @@
 
 ---
 
-### 3D Contribution Graph:📉
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+![3D Contribution Graph](profile-3d-contrib/profile-night-rainbow.svg)
+
