@@ -50,7 +50,81 @@
 
 ### 🧰 Tech Stack
 
-<div align="left"> <a href="https://drive.google.com/file/d/1RJgjWqCXsIhBZ94SEKcsOOXJYBhFCsau/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" /> </a> <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="30" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" /> <a href="https://drive.google.com/file/d/1lK7c6CTuyIULPxANZ_YZWyizRVB-mvPO/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" height="30" /> </a> <a href="https://drive.google.com/file/d/12GIhtU4QYn0B29wrnqbwyOU0G8L-XXnh/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" /> </a> <a href="https://www.hackerrank.com/certificates/01a0834add8f" target="_blank"> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" /> </a> <a href="https://drive.google.com/file/d/1RJgjWqCXsIhBZ94SEKcsOOXJYBhFCsau/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="30" /> </a> <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" height="30" /> <img src="https://img.shields.io/badge/Power BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" height="30" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" height="30" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" /> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" height="30" /> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="30" /> <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="30" /> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" /> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" /> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" height="30" /> </div>
+<div align="left">
+
+  <!-- Python -->
+  <a href="https://drive.google.com/file/d/1RJgjWqCXsIhBZ94SEKcsOOXJYBhFCsau/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+
+  <!-- R Programming -->
+  <a href="https://drive.google.com/file/d/1srW6q9NwJFm92_UcVF4ekppc7l15HMWb/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" />
+
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" />
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" />
+
+  <!-- Excel -->
+  <a href="https://drive.google.com/file/d/1lK7c6CTuyIULPxANZ_YZWyizRVB-mvPO/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+
+  <!-- MySQL -->
+  <a href="https://drive.google.com/file/d/12GIhtU4QYn0B29wrnqbwyOU0G8L-XXnh/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+
+  <!-- React -->
+  <a href="https://www.hackerrank.com/certificates/01a0834add8f" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" />
+  </a>
+
+  <!-- Java -->
+  <a href="https://drive.google.com/file/d/1RJgjWqCXsIhBZ94SEKcsOOXJYBhFCsau/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+
+  <!-- Tableau -->
+  <a href="https://drive.google.com/file/d/1A9Nh0T2LKSfyfqgrQ4EHckxQ3kYY3hF_/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+
+  <!-- Power BI -->
+  <img src="https://img.shields.io/badge/Power BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" height="30" />
+
+  <!-- Streamlit -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" height="30" />
+
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" />
+
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" height="30" />
+
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="30" />
+
+  <!-- VS Code -->
+  <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="30" />
+
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" />
+
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" />
+
+  <!-- Jupyter -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" height="30" />
+
+</div>
+
 
 
 ---
