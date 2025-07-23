@@ -1,15 +1,16 @@
 <img src="https://raw.githubusercontent.com/KunalAnand7222/KunalAnand7222/main/assets/header.png" width="100%"/>
 
 # Hi, I'm KUNAL ANAND! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
-<br>
 
-![](https://komarev.com/ghpvc/?username=KunalAnand7222&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=KunalAnand7222&color=blue)
+
+<img src="https://github.com/KunalAnand7222/KunalAnand7222/blob/main/ChatGPT%20Image%20Jul%2023%2C%202025%2C%2003_15_17%20PM.png?raw=true" width="300"  align="right" height="200" />
+
 
 ### 🎯 Data Science & Development Enthusiast
 
-<div align="center">
-  <img height="200" src="https://yt3.ggpht.com/aZwOyRoTvmtZsAVxTiSc48ZUofoba60FiEMq9dHp0d4Nv2Do-pcZ6SOx354XPr7KXZfbo6DACgcaZQ=s600-c-fcrop64=1,00000000ffffffff-nd-v1" width= "300" align=right />
-</div>
+
+
 
 - 🎓 Currently pursuing **B.Tech CSE (Data Science)** at **LPU**
 - 💻 Learning **DSA**, **MERN Stack**, and **Model Training**
