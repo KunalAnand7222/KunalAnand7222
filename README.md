@@ -93,7 +93,7 @@
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KunalAnand7222/KunalAnand7222/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/KunalAnand7222/KunalAnand7222/output/snake.svg?palette=github-dark&color_snake=#39FF14&color_dots=#00FFFF,#FF00FF,#00FF00,#FFFF00" alt="Snake animation" />
 </p>
 
 
