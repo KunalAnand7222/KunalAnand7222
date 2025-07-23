@@ -88,8 +88,12 @@
 
 ###
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### 🐍 GitHub Contribution Snake
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KunalAnand7222/KunalAnand7222/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
+</p>
+
+
