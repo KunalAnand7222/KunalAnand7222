@@ -1,82 +1,105 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm <span style="color:#FFA500;">Kunal Anand</span></h1>
-<h3 align="center">🚀 A passionate Data & Web enthusiast | Final-year B.Tech CSE</h3>
+<img src="https://raw.githubusercontent.com/KunalAnand7222/KunalAnand7222/main/assets/header.png" width="100%"/>
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kunalanand7222/KunalAnand7222/main/assets/code-banner.gif" alt="Coding Banner" width="80%" />
-</p>
+# Hi, I'm KUNAL ANAND! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+<br>
 
----
+![](https://komarev.com/ghpvc/?username=KunalAnand7222&color=blue)
 
-<!-- About Section -->
-### 👨‍💻 About Me
+### 🎯 Data Science & Development Enthusiast
 
-- 🎓 Final-year B.Tech in **Computer Science Engineering**
-- 💡 I enjoy solving real-world problems with **Python**, **JavaScript**, **ReactJS**, **Excel**, **Power BI**, and **Tableau**
-- 🔍 Passionate about **DSA**, **AI/ML**, and **Data Visualization**
-- 🌱 Currently learning **Advanced ML**, **Deep Learning**, **NLP**
-- 🧠 Always ready to **collaborate on open-source and web/data projects**
-- 🎯 Goal: **Keep building. Keep sharing. Keep learning.**
+<div align="center">
+  <img height="200" src="https://yt3.ggpht.com/aZwOyRoTvmtZsAVxTiSc48ZUofoba60FiEMq9dHp0d4Nv2Do-pcZ6SOx354XPr7KXZfbo6DACgcaZQ=s600-c-fcrop64=1,00000000ffffffff-nd-v1" width= "300" align=right />
+</div>
+
+- 🎓 Currently pursuing **B.Tech CSE (Data Science)** at **LPU**
+- 💻 Learning **DSA**, **MERN Stack**, and **Model Training**
+- 🤝 Looking to collaborate on **Web + ML Projects**
+- 🧠 Passionate about **AI**, **UI/UX**, and **Data Visualization**
+- 📌 Goals: Contribute to **Open Source** & **Product Development**
 
 ---
 
-<!-- Social Links -->
-### 🌐 Connect with Me
+### 🌐 Social Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/KunalAnand7222/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/kunalbhardwaj192/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge)](https://codeforces.com/profile/Kunal_Anand7222)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/kunalbhardwaj721)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@kunalbhardwaj7222805)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web)](https://kunalanand7222.github.io/Portfoliokunal/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINK)
-
----
-
-<!-- Tech Stack -->
-### ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-</p>
-
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KunalAnand7222&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAnand7222&layout=compact&theme=github_dark" height="150"/>
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/kunal-anand7222/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="https://leetcode.com/u/KunalAnand7222/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/kunalbhardwaj192/" target="_blank">
+    <img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/kunalbhardwaj721" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35" />
+  </a>
+  <a href="https://codeforces.com/profile/Kunal_Anand7222" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35" />
+  </a>
+  <a href="https://medium.com/@kunalbhardwaj7222805" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="35" />
+  </a>
+  <a href="https://kunalanand7222.github.io/Portfoliokunal/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" />
+  </a>
+</div>
 
 ---
 
-<!-- Snake Animation -->
-### 🐍 Contribution Snake
+### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KunalAnand7222/KunalAnand7222/output/snake.svg?palette=github-dark&color_snake=#39FF14&color_dots=#00FFFF,#FF00FF,#00FF00,#FFFF00" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Power BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" />
+</div>
 
 ---
 
-<!-- Contribution Graph -->
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KunalAnand7222&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalAnand7222&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAnand7222&layout=compact&theme=radical" height="150" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KunalAnand7222&theme=radical&margin-w=10&row=1" height="130" />
+</div>
+
+---
+
+### 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalAnand7222&theme=redical&area=true&hide_border=false" height="300" />
+</div>
+
+---
+
+### 🐍 Snake Eating My Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KunalAnand7222/KunalAnand7222/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ### 🌈 3D Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KunalAnand7222/KunalAnand7222/output/profile-night-rainbow.svg" />
-</p>
-
----
-
-<!-- Quote -->
-### 📌 Quote to Live By
-> _“Keep learning, keep building — the future is data-driven!”_
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
