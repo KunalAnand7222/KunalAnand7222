@@ -41,7 +41,7 @@
   <a href="https://medium.com/@kunalbhardwaj7222805" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="35" />
   </a>
-  <a href="https://kunalanand7222.github.io/Portfoliokunal/" target="_blank">
+  <a href="https://kunalportfoliioo.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" />
   </a>
 </div>
