@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/kunal-anand7222/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="https://leetcode.com/u/KunalAnand7222/" target="_blank">
+  <a href="https://leetcode.com/u/kunal_codexx/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/kunalbhardwaj192/" target="_blank">
